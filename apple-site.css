@@ -75,7 +75,7 @@ body {
   }
   
   .list-item:hover {
-    background: url(../assets/hover-background.jpg) 0 0 repeat;
+    background: url(../img/hover-background.jpg) 0 0 repeat;
     border-radius: 4px;
   }
   
@@ -91,7 +91,7 @@ body {
   }
   
   .article {
-    background: url(../assets/hero.jpg) 0% 100% no-repeat;
+    background: url(../img/hero.jpg) 0% 100% no-repeat;
     position: absolute;
     overflow: hidden;
     top: 0;
@@ -124,19 +124,19 @@ body {
   
   .promo-list {
     display: flex;
+    width: 100%;
     height: 200px;
     margin: 0 auto;
     max-width: 1440px;
     min-width: 1024px;
     text-align: center;
-    width: 100%;
   }
   
   .promo-list-item {
+    width: 25%;
+    height: 200px;
     border-top: 1px solid #FFF;
     border-right: 1px solid #FFF;
-    height: 200px;
-    width: 25%;
   }
   
   .promo-img {
@@ -144,16 +144,16 @@ body {
   }
   
   .footer {
+    position: absolute;
     align-items: baseline;
     color: #6e6e6e;
     font-size: 10px;
     line-height: 1.2;
-    position: absolute;
-    margin: 5px 10px 20px;
-    min-width: 900px;
     top: 750px;
     right: 0;
     left: 0;
+    margin: 5px 10px 20px;
+    min-width: 900px;
   }
   
   .footer a {
@@ -208,4 +208,3 @@ body {
   .copy-right-a:first-of-type {
     border-right: 1px solid #ccc;
   }
-  
