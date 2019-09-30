@@ -1,6 +1,7 @@
 # Project: Microverse sample projects anibaba-apple-site-clone
 
-This is my first solo project and als the fourth project of the Main HTML/CSS curriculum at [Microverse](https://www.microverse.org/) - @microverseinc
+This is my first solo project and also the fourth project of the Main HTML/CSS curriculum at [Microverse](https://www.microverse.org/) - @microverse
+
 * The project was completed using html and css 
 
 #### [Assignment link](https://www.theodinproject.com/courses/html5-and-css3/lessons/building-with-backgrounds-and-gradients)
