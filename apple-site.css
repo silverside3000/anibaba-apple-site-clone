@@ -132,10 +132,11 @@ a {
 }
 
 .promo {
-    position: absolute;
+    position: relative;
+    display: flex;
+    margin: auto;
     top: 550px;
-    width: 100%;
-    height: 200px;
+    width: 75%;
 }
 
 .promo-list {
